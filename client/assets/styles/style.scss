@@ -1,0 +1,15 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+.ecommerce-btn {
+  @apply rounded-md bg-blue-800/60 text-sm font-medium  mx-1 px-6 text-white text-center hover:text-blue-200 focus:z-10 focus:ring-blue-200 focus:bg-blue-400
+}
+
+.ecommerce-btn-f {
+  @apply rounded-md bg-blue-800/60 text-sm font-medium mx-1 px-6 text-white hover:text-blue-200 focus:z-10 focus:ring-blue-200 focus:bg-blue-400
+}
+
+.ecommerce-btn-l {
+  @apply rounded-md bg-blue-800/60 text-sm font-medium mx-1 px-6 text-white hover:text-blue-200 focus:z-10 focus:ring-blue-200 focus:bg-blue-400
+}
